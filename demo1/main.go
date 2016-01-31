@@ -14,6 +14,7 @@ func main(){
 	var g Int
 	type 文本 string
 	var h 文本="hello world"
+	
 	fmt.Println(a)
 	fmt.Println(b)
 	fmt.Println(c)
