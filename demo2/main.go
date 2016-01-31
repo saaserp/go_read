@@ -5,9 +5,9 @@ import "fmt"
 var a int
 var b int =1
 var (
-	d int=1
-	e bool=true
-	f string="hello"
+	d =1
+	e =true
+	f ="hello"
 )
 func main(){
 	a = 1
